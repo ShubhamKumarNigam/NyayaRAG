@@ -1,4 +1,4 @@
-# 🇮🇳📚 पुनर्प्राप्ति-संवर्धित विधि प्रणाली  
+# 🇮🇳📚 VidhiManthan
 *A Retrieval-Augmented Framework for Structured Legal Judgment Prediction in the Indian Judicial Domain*
 
 Built using the **LLaMA-3.1 8B Instruct** model, this project aims to support **inference, classification**, and **retrieval** across structured Indian Supreme Court case law using modern LLMs.
