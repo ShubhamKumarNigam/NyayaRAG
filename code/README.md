@@ -7,6 +7,11 @@ Each pipeline processes a specific combination of legal data (e.g., **summarized
 
 ---
 
+### 🧑‍💻 Data Summarization with Mixtral 8x7B Instruct v0.1
+
+For cases with large amounts of text, the **Mixtral 8*7B Instruct v0.1** model is used to **summarize** the case data, including **case texts**, **statutes**, and **facts**. This summarization process ensures that the data is concise and within the model’s token limit, making it more manageable for further analysis and prediction.
+
+
 ### 📁 Common Pipeline Workflow
 
 Regardless of the specific pipeline being run, each follows a similar general workflow:
