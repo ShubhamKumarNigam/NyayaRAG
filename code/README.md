@@ -46,13 +46,3 @@ Each pipeline follows the same general structure with minor modifications based 
 - **Output**: Save the predictions and explanations to a CSV file.
 
 ---
-
-### 🚀 Running Any Pipeline
-
-To run any of the pipelines, follow the steps below:
-
-1. **Install Required Libraries**
-
-   Ensure that you have all the necessary dependencies installed:
-   ```bash
-   pip install transformers pandas torch tqdm
