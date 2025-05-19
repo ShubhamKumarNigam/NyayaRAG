@@ -6,7 +6,7 @@ This project structures Supreme Court judgments into distinct legal components �
 
 ## 🗂️ Directory Structure & Contents
 
-Each folder contains datasets for a specific component of the pipeline. Google Drive links are placeholders and should be updated with actual links.
+Each folder contains datasets for a specific component of the pipeline. Google Drive links can be used to see and download the exact data mentioned below.
 
 ---
 
