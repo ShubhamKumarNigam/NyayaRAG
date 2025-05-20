@@ -20,7 +20,7 @@ Regardless of the specific pipeline being run, each follows a similar general wo
    - Input data is loaded from a **JSON file** containing relevant legal information, including:
      - Summarized case text
      - Relevant statutes
-     - Cited cases
+     - Precedents
      - Case facts (if applicable)
 
 2. **Data Preprocessing**  
@@ -49,5 +49,19 @@ Each pipeline follows the same general structure with minor modifications based 
 - **Model Loading**: Load a specific model for legal judgment prediction (e.g., Llama-3.1-8B-Instruct).
 - **Model Inference**: Run inference on the data, generating predictions and explanations.
 - **Output**: Save the predictions and explanations to a CSV file.
+
+---
+
+
+### 📝 Execution Guidance
+
+To ensure smooth execution of the pipelines, **please follow the comments marked inside `### ###` within the code files**. These specially marked comments provide step-by-step instructions, configuration notes, and important clarifications to help you:
+
+- Understand the purpose of each code block  
+- Modify paths, filenames, or parameters if needed  
+- Avoid common pitfalls during execution  
+- Execute each step in the correct order
+
+These in-line comments are designed to make the code more accessible, especially for first-time users. **Be sure to read them carefully before running any scripts.**
 
 ---
