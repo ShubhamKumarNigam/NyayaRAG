@@ -5,13 +5,14 @@ This project structures Supreme Court judgments into distinct legal components �
 ---
 
 ## 🗂️ Directory Structure & Contents
+All the dataset in [Hugging Face L-NLProc: Legal Natural Language Processing](https://huggingface.co/L-NLProc) collection [L-NLProc/NyayaRAG](https://huggingface.co/collections/L-NLProc/nyayarag)
 
-Each folder contains datasets for a specific component of the pipeline. Google Drive links can be used to see and download the exact data mentioned below.
+Each folder contains datasets for a specific component of the pipeline. Hugging Face links can be used to see and download the exact data mentioned below.
 
 ---
 
 ### 📁 `1. Base_dataset/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1Wecj7cLxYNkjppKKRK1N_8uRy798JjJY?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/1.Base%20Dataset.zip)
 
 | File | Description |
 |------|-------------|
@@ -24,7 +25,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `2. CaseText_only/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1p9JLQ4BRL25oKSosRErCPI2kdJDSEMxj?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/2.CaseText_only.zip)
 
 | File | Description |
 |------|-------------|
@@ -34,7 +35,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `3. CaseText_Statutes/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1ZuvabjwwRmuoE_1nNrHb2s3uxydhsmAF?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/3.CaseText_Statutes.zip)
 
 | File | Description |
 |------|-------------|
@@ -44,7 +45,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `4. CaseText_Precedents/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1J772XCG22LeQC38esXUIRVYEuinBMO5E?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/4.CaseText_Precedents.zip)
 
 | File | Description |
 |------|-------------|
@@ -56,7 +57,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `5. CaseText_Previous_Similar_Cases/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1ligZDRi94ySRhA7OQU8Pq1l0Um9BHMwE?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/5.CaseText_Previous_Similar_Cases.zip)
 
 | File | Description |
 |------|-------------|
@@ -68,7 +69,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 
 
 ### 📁 `6. CaseText_Statutes_Precedents/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/14d3Adhehe6JnXoATfcwC98GmiijJ8_fq?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/6.CaseText_Statutes_Precedents.zip)
 
 | File | Description |
 |------|-------------|
@@ -78,7 +79,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `7. Facts_only/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1YZm5PESxkF17eZbvOjy7TwpD49BGdtKx?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/7.Facts%20Only.zip)
 
 | File | Description |
 |------|-------------|
@@ -88,7 +89,7 @@ Each folder contains datasets for a specific component of the pipeline. Google D
 ---
 
 ### 📁 `8. Facts_Statutes_Precedents/`  
-[📁 Open in Google Drive](https://drive.google.com/drive/folders/1lIXZRg4bi3nbcj6288jWKjZ-SdFz5RMv?usp=drive_link)
+[📁 Open in Hugging Face](https://huggingface.co/datasets/L-NLProc/NyayaRAG/blob/main/8.Facts_Statutes_Precedents.zip)
 
 | File | Description |
 |------|-------------|
