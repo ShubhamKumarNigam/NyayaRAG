@@ -70,7 +70,7 @@ India's legal system is overburdened with millions of pending cases. Most existi
 |------------------------------------|--------------|--------------|
 | CaseText Only                      | 62.27        | 4.17         |
 | CaseText + Statutes               | **67.07**    | **4.21**     |
-| CaseText + Statutes + Precedents  | 64.70        | 4.11         |
+| CaseText + Statutes + Precedents  | 64.71        | 4.11         |
 | Facts Only                         | 51.13        | 3.53         |
 
 ---
