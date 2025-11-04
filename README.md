@@ -1,17 +1,17 @@
 <h1 align="center">
 <img src="images/L-NLP_Logo_Transparent.png" width="100" alt="L-NLP" />
 <br>
-NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System (IJCNLP-AACL 2025)
+NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System <br> (IJCNLP-AACL 2025)
 </h1>
 
-![task_desc](images/NyayaRAG_flow_chart.drawio.png)
+<img src="images/NyayaRAG_flow_chart.drawio.png" width="200" alt="task desc" />
 
 <p align="center">
   <a href="https://huggingface.co/L-NLProc"><b>[🌐 Website]</b></a> •
   <a href=""><b>[📜 Proceedings]</b></a> •
   <a href=""><b>[📜 ArXiv]</b></a> •
   <a href=""><b>[🤗 HF Models]</b></a> •
-  <a href="https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama/tree/main"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
+  <a href="https://github.com/ShubhamKumarNigam/NyayaRAG"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
   <a href=""><b>[📝 Dataset Access]</b></a> 
 </p>
 
