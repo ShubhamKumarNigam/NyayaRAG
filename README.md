@@ -1,4 +1,32 @@
-# NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System
+<h1 align="center">
+<img src="images/L-NLP_Logo_Transparent.png" width="100" alt="L-NLP" />
+<br>
+NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System (IJCNLP-AACL 2025)
+</h1>
+
+![task_desc](images/InLegalLlama_task_diagram_mini.png)
+
+<p align="center">
+  <a href="https://huggingface.co/L-NLProc"><b>[🌐 Website]</b></a> •
+  <a href=""><b>[📜 Proceedings]</b></a> •
+  <a href=""><b>[📜 ArXiv]</b></a> •
+  <a href=""><b>[🤗 HF Models]</b></a> •
+  <a href="https://github.com/ShubhamKumarNigam/NyayaAnumana-and-INLegalLlama/tree/main"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
+  <a href=""><b>[📝 Dataset Access]</b></a> 
+</p>
+
+<p align="center">
+  This is the official implementation of the paper:
+</p>
+<p align="center">
+  <a href="">NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System</a>, to appear in <strong> <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a> </strong>
+    
+</p>
+<p align="center">
+ <b>Authors:</b> <a href="https://sites.google.com/view/shubhamkumarnigam">Shubham Kumar Nigam</a>, <a href="https://www.linkedin.com/in/balaramamahanthi-deepak-patnaik-b83043246/">Balaramamahanthi Deepak Patnaik</a>, <a href="https://www.linkedin.com/in/shivamm1602/">Shivam Mishra</a>, <a href="https://www.linkedin.com/in/ajaythomas-4231/">Ajay Thomas</a>, <a href="https://www.linkedin.com/in/noelshallum/">Noel Shallum</a>, <a href="https://sites.google.com/view/kripabandhughosh-homepage/home">Kripabandhu Ghosh</a>, and <a href="https://www.cse.iitk.ac.in/users/arnabb/">Arnab Bhattacharya</a>
+</p>
+
+## Overview
 
 **NyayaRAG** is a Retrieval-Augmented Generation (RAG) framework designed for **legal judgment prediction and explanation** in the Indian common law system. It integrates **factual case descriptions**, **statutory provisions**, and **semantically retrieved prior cases** to emulate real-world courtroom reasoning.
 
