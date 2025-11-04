@@ -4,7 +4,7 @@
 NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System <br> (IJCNLP-AACL 2025)
 </h1>
 
-<img src="images/NyayaRAG_flow_chart.drawio.png" width="2000" alt="task desc" />
+![task_desc](images/InLegalLlama_task_diagram_mini.png)
 
 <p align="center">
   <a href="https://huggingface.co/L-NLProc"><b>[🌐 Website]</b></a> •
@@ -62,7 +62,7 @@ India's legal system is overburdened with millions of pending cases. Most existi
 ---
 
 ## 🔧 Methodology
-
+<img src="images/NyayaRAG_flow_chart.drawio.png" width="2000" alt="task desc" />
 1. **Summarization:** Long judgments are shortened using a tailored prompt to extract key elements.
 2. **Retrieval Pipelines:** We construct multiple input pipelines:
    - `Facts Only`
