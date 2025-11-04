@@ -4,7 +4,7 @@
 NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System (IJCNLP-AACL 2025)
 </h1>
 
-![task_desc](images/InLegalLlama_task_diagram_mini.png)
+![task_desc](images/NyayaRAG_flow_chart.drawio.png)
 
 <p align="center">
   <a href="https://huggingface.co/L-NLProc"><b>[🌐 Website]</b></a> •
