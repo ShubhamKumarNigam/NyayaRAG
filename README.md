@@ -30,6 +30,11 @@ NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common L
 
 **NyayaRAG** is a Retrieval-Augmented Generation (RAG) framework designed for **legal judgment prediction and explanation** in the Indian common law system. It integrates **factual case descriptions**, **statutory provisions**, and **semantically retrieved prior cases** to emulate real-world courtroom reasoning.
 
+This advancement sets a new benchmark for legal judgment prediction in the NLP community, making strides in both accuracy and explainability for legal applications.
+If you have any questions on this work, please open a [GitHub issue](https://github.com/NyayaRAG/issues) or email the authors at
+
+```shubhamkumarnigam@gmail.com, bdeepakpatnaik2002@gmail.com, shivam1602m@gmail.com```
+
 ---
 
 ## ⚖️ Motivation
