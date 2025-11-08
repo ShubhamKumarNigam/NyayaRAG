@@ -68,19 +68,23 @@ India's legal system is overburdened with millions of pending cases. Most existi
 
 ## 🔧 Methodology
 <img src="images/NyayaRAG_flow_chart.drawio.png" width="2000" alt="task desc" />
-1. Summarization: Long judgments are shortened using a tailored prompt to extract key elements.
-2. Retrieval Pipelines: We construct multiple input pipelines:
-   - `Facts Only`
-   - `CaseText Only`
-   - `CaseText + Statutes`
-   - `CaseText + Precedents`
-   - `CaseText + Previous Similar Cases`
-   - `CaseText + Statutes + Precedents`
-   - `Facts + Statutes + Precedents`
-3. Prediction & Explanation:
-   - Binary Decision: 0 (Rejected) / 1 (Accepted)
-   - Legal Explanation: Natural language output referencing laws and precedents
-4. Model: LLaMA 3–8B Instruct with few-shot prompting
+
+1. Summarization: Long judgments are shortened using a tailored prompt to extract key elements. <br>
+
+2. Retrieval Pipelines: We construct multiple input pipelines:<br>
+    - `Facts Only` <br>
+    - `CaseText Only` <br>
+    - `CaseText + Statutes`<br>
+    - `CaseText + Precedents`<br>
+    - `CaseText + Previous Similar Cases`<br>
+    - `CaseText + Statutes + Precedents`<br>
+    - `Facts + Statutes + Precedents`<br>
+    
+3. Prediction & Explanation:<br>
+   - Binary Decision: 0 (Rejected) / 1 (Accepted) <br>
+   - Legal Explanation: Natural language output referencing laws and precedents <br>
+   
+4. Model: LLaMA 3–8B Instruct with few-shot prompting<br>
 
 ---
 
@@ -102,7 +106,7 @@ India's legal system is overburdened with millions of pending cases. Most existi
 | Pipeline                           | Accuracy (%) | G-Eval Score |
 |------------------------------------|--------------|--------------|
 | CaseText Only                      | 62.27        | 4.17         |
-| CaseText + Statutes               | **67.07**    | **4.21**     |
+| CaseText + Statutes               | <b>67.07</b>    | <b>4.21</b>     |
 | CaseText + Statutes + Precedents  | 64.71        | 4.11         |
 | Facts Only                         | 51.13        | 3.53         |
 
