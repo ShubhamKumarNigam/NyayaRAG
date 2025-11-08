@@ -12,7 +12,7 @@ NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common L
   <a href="https://arxiv.org/abs/2508.00709"><b>[📜 ArXiv]</b></a> •
   <a href=""><b>[🤗 HF Models]</b></a> •
   <a href="https://github.com/ShubhamKumarNigam/NyayaRAG"><b>[<img src="images/icons8-github-16.png" alt="Github" /> GitHub]</b></a> •
-  <a href=""><b>[📝 Dataset Access]</b></a> 
+  <a href="https://github.com/ShubhamKumarNigam/NyayaRAG/tree/main/data"><b>[📝 Dataset Access]</b></a> 
 </p>
 
 <p align="center">
