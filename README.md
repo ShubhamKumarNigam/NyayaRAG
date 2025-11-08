@@ -127,4 +127,15 @@ NyayaRAG opens several promising avenues for future enhancements:
 - Outputs from this model **do not constitute legal advice** and must not be used for legal decision-making without expert oversight.
 - Although the system attempts to replicate human-like legal reasoning, it may still reflect biases present in source judgments or training data.
 
-
+## Citation
+If you use this project in your research or other work, please cite it as follows:
+```
+@misc{nigam2025nyayaragrealisticlegaljudgment,
+      title={NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System}, 
+      author={Shubham Kumar Nigam and Balaramamahanthi Deepak Patnaik and Shivam Mishra and Ajay Varghese Thomas and Noel Shallum and Kripabandhu Ghosh and Arnab Bhattacharya},
+      year={2025},
+      eprint={2508.00709},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL},
+      url={https://arxiv.org/abs/2508.00709}, 
+}
