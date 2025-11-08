@@ -19,7 +19,7 @@ NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common L
   This is the official implementation of the paper:
 </p>
 <p align="center">
-  <a href="">NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System</a>, to appear in <strong> <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a> </strong>
+  <a href="https://arxiv.org/abs/2508.00709">NyayaRAG: Realistic Legal Judgment Prediction with RAG under the Indian Common Law System</a>, to appear in <strong> <a href="https://2025.aaclnet.org/">IJCNLP-AACL 2025</a> </strong>
     
 </p>
 <p align="center">
