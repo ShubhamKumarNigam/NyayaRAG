@@ -68,8 +68,8 @@ India's legal system is overburdened with millions of pending cases. Most existi
 
 ## 🔧 Methodology
 <img src="images/NyayaRAG_flow_chart.drawio.png" width="2000" alt="task desc" />
-1. **Summarization:** Long judgments are shortened using a tailored prompt to extract key elements.
-2. **Retrieval Pipelines:** We construct multiple input pipelines:
+1. Summarization: Long judgments are shortened using a tailored prompt to extract key elements.
+2. Retrieval Pipelines: We construct multiple input pipelines:
    - `Facts Only`
    - `CaseText Only`
    - `CaseText + Statutes`
@@ -77,10 +77,10 @@ India's legal system is overburdened with millions of pending cases. Most existi
    - `CaseText + Previous Similar Cases`
    - `CaseText + Statutes + Precedents`
    - `Facts + Statutes + Precedents`
-3. **Prediction & Explanation:**
+3. Prediction & Explanation:
    - Binary Decision: 0 (Rejected) / 1 (Accepted)
    - Legal Explanation: Natural language output referencing laws and precedents
-4. **Model:** LLaMA 3–8B Instruct with few-shot prompting
+4. Model: LLaMA 3–8B Instruct with few-shot prompting
 
 ---
 
