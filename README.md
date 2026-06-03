@@ -143,3 +143,35 @@ If you use this project in your research or other work, please cite it as follow
       primaryClass={cs.CL},
       url={https://arxiv.org/abs/2508.00709}, 
 }
+
+or
+
+@inproceedings{nigam-etal-2025-nyayarag,
+    title = "{N}yaya{RAG}: Realistic Legal Judgment Prediction with {RAG} under the {I}ndian Common Law System",
+    author = "Nigam, Shubham Kumar  and
+      Patnaik, Balaramamahanthi Deepak  and
+      Mishra, Shivam  and
+      Thomas, Ajay Varghese  and
+      Shallum, Noel  and
+      Ghosh, Kripabandhu  and
+      Bhattacharya, Arnab",
+    editor = "Inui, Kentaro  and
+      Sakti, Sakriani  and
+      Wang, Haofen  and
+      Wong, Derek F.  and
+      Bhattacharyya, Pushpak  and
+      Banerjee, Biplab  and
+      Ekbal, Asif  and
+      Chakraborty, Tanmoy  and
+      Singh, Dhirendra Pratap",
+    booktitle = "Proceedings of the 14th International Joint Conference on Natural Language Processing and the 4th Conference of the Asia-Pacific Chapter of the Association for Computational Linguistics",
+    month = dec,
+    year = "2025",
+    address = "Mumbai, India",
+    publisher = "The Asian Federation of Natural Language Processing and The Association for Computational Linguistics",
+    url = "https://aclanthology.org/2025.ijcnlp-long.92/",
+    doi = "10.18653/v1/2025.ijcnlp-long.92",
+    pages = "1709--1726",
+    ISBN = "979-8-89176-298-5",
+    abstract = "Legal Judgment Prediction (LJP) has emerged as a key area in AI for law, aiming to automate judicial outcome forecasting and enhance interpretability in legal reasoning. While previous approaches in the Indian context have relied on internal case content such as facts, issues, and reasoning, they often overlook a core element of common law systems, which is reliance on statutory provisions and judicial precedents. In this work, we propose NyayaRAG, a Retrieval-Augmented Generation (RAG) framework that simulates realistic courtroom scenarios by providing models with factual case descriptions, relevant legal statutes, and semantically retrieved prior cases. NyayaRAG evaluates the effectiveness of these combined inputs in predicting court decisions and generating legal explanations using a domain-specific pipeline tailored to the Indian legal system. We assess performance across various input configurations using both standard lexical and semantic metrics as well as LLM-based evaluators such as G-Eval. Our results show that augmenting factual inputs with structured legal knowledge significantly improves both predictive accuracy and explanation quality."
+}
